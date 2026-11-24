@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <style>
+      .font-main { font-family: 'Montserrat', 'Segoe UI', Arial, sans-serif; }
+      .font-mono { font-family: 'Consolas', 'Courier New', monospace; }
+    </style>
+    <filter id="cardShadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#10245A" flood-opacity="0.08"/>
+    </filter>
+    <!-- Patrón decorativo inspirado en tejido andino (aguayo / chullo) -->
+    <pattern id="andinoPattern" width="90" height="28" patternUnits="userSpaceOnUse">
+      <rect width="90" height="28" fill="#10245A"/>
+      <rect y="0" width="90" height="4" fill="#E6007E"/>
+      <rect y="24" width="90" height="4" fill="#00A83B"/>
+      <!-- Rombos andinos -->
+      <polygon points="15,6 25,14 15,22 5,14" fill="#FFD500"/>
+      <polygon points="15,10 20,14 15,18 10,14" fill="#F04424"/>
+      <polygon points="45,6 55,14 45,22 35,14" fill="#B7E600"/>
+      <polygon points="45,10 50,14 45,18 40,14" fill="#1746D2"/>
+      <polygon points="75,6 85,14 75,22 65,14" fill="#FF6A00"/>
+      <polygon points="75,10 80,14 75,18 70,14" fill="#FFF8E7"/>
+    </pattern>
+  </defs>
+
+  <!-- Fondo limpio y profesional -->
+  <rect width="1080" height="1080" fill="#FFFFFF"/>
+
+  <!-- Cenefa superior de tejido andino -->
+  <rect x="0" y="0" width="1080" height="28" fill="url(#andinoPattern)"/>
+
+  <!-- Encabezado -->
+  <text x="540" y="96" text-anchor="middle" class="font-main" font-size="30" font-weight="800" fill="#10245A" letter-spacing="3">
+    BELÉN LA CASERITA BOLIVIA
+  </text>
+  <text x="540" y="152" text-anchor="middle" class="font-main" font-size="44" font-weight="900" fill="#E6007E" letter-spacing="1.5">
+    PALETA DE COLORES OFICIAL
+  </text>
+
+  <!-- Barra multicolor divisoria -->
+  <g transform="translate(270, 176)">
+    <rect x="0"   y="0" width="60" height="6" rx="3" fill="#1746D2"/>
+    <rect x="60"  y="0" width="60" height="6" rx="3" fill="#10245A"/>
+    <rect x="120" y="0" width="60" height="6" rx="3" fill="#E6007E"/>
+    <rect x="180" y="0" width="60" height="6" rx="3" fill="#00A83B"/>
+    <rect x="240" y="0" width="60" height="6" rx="3" fill="#B7E600"/>
+    <rect x="300" y="0" width="60" height="6" rx="3" fill="#FF6A00"/>
+    <rect x="360" y="0" width="60" height="6" rx="3" fill="#FFD500"/>
+    <rect x="420" y="0" width="60" height="6" rx="3" fill="#F04424"/>
+    <rect x="480" y="0" width="60" height="6" rx="3" fill="#FFF8E7" stroke="#D8D2C5" stroke-width="1"/>
+  </g>
+
+  <!-- FILA 1 -->
+  <!-- 1. AZUL REY -->
+  <g transform="translate(90, 215)" filter="url(#cardShadow)">
+    <rect width="276" height="218" rx="18" fill="#FFFFFF" stroke="#ECEFF4" stroke-width="1.5"/>
+    <rect x="14" y="14" width="248" height="134" rx="12" fill="#1746D2"/>
+    <text x="138" y="177" text-anchor="middle" class="font-main" font-size="18" font-weight="800" fill="#10245A">AZUL REY</text>
+    <text x="138" y="202" text-anchor="middle" class="font-mono" font-size="17" font-weight="700" fill="#4B5563">#1746D2</text>
+  </g>
+
+  <!-- 2. AZUL MARINO -->
+  <g transform="translate(402, 215)" filter="url(#cardShadow)">
+    <rect width="276" height="218" rx="18" fill="#FFFFFF" stroke="#ECEFF4" stroke-width="1.5"/>
+    <rect x="14" y="14" width="248" height="134" rx="12" fill="#10245A"/>
+    <text x="138" y="177" text-anchor="middle" class="font-main" font-size="18" font-weight="800" fill="#10245A">AZUL MARINO</text>
+    <text x="138" y="202" text-anchor="middle" class="font-mono" font-size="17" font-weight="700" fill="#4B5563">#10245A</text>
+  </g>
+
+  <!-- 3. FUCSIA INTENSO -->
+  <g transform="translate(714, 215)" filter="url(#cardShadow)">
+    <rect width="276" height="218" rx="18" fill="#FFFFFF" stroke="#ECEFF4" stroke-width="1.5"/>
+    <rect x="14" y="14" width="248" height="134" rx="12" fill="#E6007E"/>
+    <text x="138" y="177" text-anchor="middle" class="font-main" font-size="18" font-weight="800" fill="#10245A">FUCSIA INTENSO</text>
+    <text x="138" y="202" text-anchor="middle" class="font-mono" font-size="17" font-weight="700" fill="#4B5563">#E6007E</text>
+  </g>
+
+  <!-- FILA 2 -->
+  <!-- 4. VERDE BRILLANTE -->
+  <g transform="translate(90, 457)" filter="url(#cardShadow)">
+    <rect width="276" height="218" rx="18" fill="#FFFFFF" stroke="#ECEFF4" stroke-width="1.5"/>
+    <rect x="14" y="14" width="248" height="134" rx="12" fill="#00A83B"/>
+    <text x="138" y="177" text-anchor="middle" class="font-main" font-size="18" font-weight="800" fill="#10245A">VERDE BRILLANTE</text>
+    <text x="138" y="202" text-anchor="middle" class="font-mono" font-size="17" font-weight="700" fill="#4B5563">#00A83B</text>
+  </g>
+
+  <!-- 5. VERDE LIMA -->
+  <g transform="translate(402, 457)" filter="url(#cardShadow)">
+    <rect width="276" height="218" rx="18" fill="#FFFFFF" stroke="#ECEFF4" stroke-width="1.5"/>
+    <rect x="14" y="14" width="248" height="134" rx="12" fill="#B7E600"/>
+    <text x="138" y="177" text-anchor="middle" class="font-main" font-size="18" font-weight="800" fill="#10245A">VERDE LIMA</text>
+    <text x="138" y="202" text-anchor="middle" class="font-mono" font-size="17" font-weight="700" fill="#4B5563">#B7E600</text>
+  </g>
+
+  <!-- 6. NARANJA -->
+  <g transform="translate(714, 457)" filter="url(#cardShadow)">
+    <rect width="276" height="218" rx="18" fill="#FFFFFF" stroke="#ECEFF4" stroke-width="1.5"/>
+    <rect x="14" y="14" width="248" height="134" rx="12" fill="#FF6A00"/>
+    <text x="138" y="177" text-anchor="middle" class="font-main" font-size="18" font-weight="800" fill="#10245A">NARANJA</text>
+    <text x="138" y="202" text-anchor="middle" class="font-mono" font-size="17" font-weight="700" fill="#4B5563">#FF6A00</text>
+  </g>
+
+  <!-- FILA 3 -->
+  <!-- 7. AMARILLO -->
+  <g transform="translate(90, 699)" filter="url(#cardShadow)">
+    <rect width="276" height="218" rx="18" fill="#FFFFFF" stroke="#ECEFF4" stroke-width="1.5"/>
+    <rect x="14" y="14" width="248" height="134" rx="12" fill="#FFD500"/>
+    <text x="138" y="177" text-anchor="middle" class="font-main" font-size="18" font-weight="800" fill="#10245A">AMARILLO</text>
+    <text x="138" y="202" text-anchor="middle" class="font-mono" font-size="17" font-weight="700" fill="#4B5563">#FFD500</text>
+  </g>
+
+  <!-- 8. ROJO ANARANJADO -->
+  <g transform="translate(402, 699)" filter="url(#cardShadow)">
+    <rect width="276" height="218" rx="18" fill="#FFFFFF" stroke="#ECEFF4" stroke-width="1.5"/>
+    <rect x="14" y="14" width="248" height="134" rx="12" fill="#F04424"/>
+    <text x="138" y="177" text-anchor="middle" class="font-main" font-size="18" font-weight="800" fill="#10245A">ROJO ANARANJADO</text>
+    <text x="138" y="202" text-anchor="middle" class="font-mono" font-size="17" font-weight="700" fill="#4B5563">#F04424</text>
+  </g>
+
+  <!-- 9. BLANCO CREMA -->
+  <g transform="translate(714, 699)" filter="url(#cardShadow)">
+    <rect width="276" height="218" rx="18" fill="#FFFFFF" stroke="#ECEFF4" stroke-width="1.5"/>
+    <rect x="14" y="14" width="248" height="134" rx="12" fill="#FFF8E7" stroke="#D8D2C5" stroke-width="1.5"/>
+    <text x="138" y="177" text-anchor="middle" class="font-main" font-size="18" font-weight="800" fill="#10245A">BLANCO CREMA</text>
+    <text x="138" y="202" text-anchor="middle" class="font-mono" font-size="17" font-weight="700" fill="#4B5563">#FFF8E7</text>
+  </g>
+
+  <!-- Eslogan y cierre -->
+  <text x="540" y="982" text-anchor="middle" class="font-main" font-size="25" font-weight="700" font-style="italic" fill="#10245A">
+    «De todo un poquito, siempre al mejor precio»
+  </text>
+  <text x="540" y="1018" text-anchor="middle" class="font-main" font-size="14" font-weight="600" fill="#6B7280" letter-spacing="2">
+    IDENTIDAD VISUAL · INSPIRACIÓN EN TEJIDO ANDINO BOLIVIANO
+  </text>
+
+  <!-- Cenefa inferior de tejido andino -->
+  <rect x="0" y="1052" width="1080" height="28" fill="url(#andinoPattern)"/>
+</svg>

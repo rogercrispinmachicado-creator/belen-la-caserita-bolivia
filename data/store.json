@@ -1,0 +1,348 @@
+{
+  "settings": {
+    "brandName": "BELÉN LA CASERITA BOLIVIA",
+    "slogan": "De todo un poquito, siempre al mejor precio",
+    "whatsappNumber": "68048514",
+    "whatsappCountryCode": "591",
+    "supportTitle": "BELÉN TE ATIENDE",
+    "supportText": "¿Te interesa alguno de nuestros productos? ¿Tienes dudas sobre precios, promociones o entregas? Escríbenos directamente. ¡Estamos para ayudarte!",
+    "defaultDelivery": "Entregas coordinadas por WhatsApp y envíos a todo el país previo acuerdo.",
+    "defaultPayment": "Pago en efectivo al recibir, transferencia bancaria o código QR.",
+    "adminPin": "2026"
+  },
+  "products": [
+    {
+      "id": "prod-alfombra-masajeadora-ems",
+      "name": "Masajeador de Pies con Electrodos y Estimulación EMS",
+      "category": "Cuidado Personal",
+      "description": "Alfombra o tapete masajeador de pies con tecnología EMS y módulo de control circular integrado. Formato plano, delgado, liviano y fácil de guardar, pensado para acompañarte en tus momentos de descanso en casa. Disponible por unidad (Bs. 125) o por mayor desde 3 unidades (Bs. 240 el lote).",
+      "characteristics": [
+        "Tipo: Tapete / alfombra de electroestimulación EMS para pies con controlador circular acoplado",
+        "Colores visibles: Base oscura (negro) con trazos claros (blanco/plateado) y módulo oscuro/azulado",
+        "Componentes visibles: Tapete flexible con dos zonas para pies y unidad de control redonda",
+        "Pendiente de confirmar con proveedor: marca/modelo, dimensiones, peso, materiales, alimentación (USB o pilas), modos, accesorios y garantía"
+      ],
+      "benefits": [
+        "Permite aplicar estimulación muscular de tipo EMS localizada en las plantas de los pies en formato plano",
+        "Delgada, ligera y fácil de trasladar o guardar sin ocupar espacio como un aparato voluminoso",
+        "Superficie conductora con esquema plantar y unidad de control circular integrada en el borde",
+        "Pensada para momentos de descanso en casa (sensación variable según cada persona; sin promesas médicas)"
+      ],
+      "usage": "Verifica que el tapete esté limpio y seco sobre una superficie plana y firme. Siéntate cómodamente, apoya ambos pies descalzos y limpios sobre las zonas marcadas, enciende el controlador y ajusta desde la intensidad mínima. Limpia con un paño suave ligeramente húmedo y seca bien antes de guardar.",
+      "wellnessTip": "Utilízalo con moderación y dentro de límites cómodos, iniciando siempre en el nivel más bajo. No lo uses sobre piel lastimada, irritada o muy húmeda. Si tienes dispositivos médicos implantados, problemas circulatorios, neuropatías o molestias persistentes, consulta antes con un profesional de salud.",
+      "unitPrice": 125,
+      "promoTitle": "",
+      "promoQuantity": null,
+      "promoPrice": null,
+      "wholesalePrice": 80,
+      "wholesaleMinQuantity": 3,
+      "imageUrl": "/assets/aistudio/images__10__59583c0c.jpeg",
+      "images": [
+        "/assets/aistudio/images__10__59583c0c.jpeg",
+        "/assets/aistudio/images__20__fe9f3de3.jpeg",
+        "/assets/aistudio/images__21__18fea3c7.jpeg",
+        "/assets/productos/antes_despues_ems_trabajo_1795548485176.jpg",
+        "/assets/aistudio/1795547466313_bf8b9ab7.jpg",
+        "/assets/aistudio/1795546558802_2f701ab0.jpg",
+        "/assets/productos/formas_pago_belen_v2_1795548534996.jpg"
+      ],
+      "videoUrl": "/assets/aistudio/_Te_duelen_los_pies..._pero_te_dijeron_que_era__normal___720P_HD__1_edf1e204.mp4",
+      "deliveryInfo": "Pendiente de confirmar cobertura, horarios, delivery y envíos nacionales por WhatsApp.",
+      "paymentInfo": "Pendiente de confirmar métodos habilitados (efectivo, transferencia bancaria o QR) por WhatsApp.",
+      "testimonials": [
+        {
+          "author": "Doña Elena",
+          "city": "La Paz",
+          "rating": 5,
+          "quote": "¡La mejor inversión para mis pies! Después de un día largo de trabajo, usar este masajeador es como un alivio inmediato. Siento cómo se relaja toda la planta y alivia el cansancio acumulado. Al principio sentí un poco de cosquilleo, pero ahora lo disfruto mucho. ¡Mis pies se sienten como nuevos y puedo descansar mejor! Totalmente recomendado si buscas comodidad en casa.",
+          "verifiedDate": "2026-11-24",
+          "active": true
+        }
+      ],
+      "active": true,
+      "isExample": false,
+      "views": 0,
+      "createdAt": "2026-11-24T18:08:00.000Z",
+      "updatedAt": "2026-11-24T18:58:00.000Z"
+    },
+    {
+      "id": "prod-pistola-masaje-muscular",
+      "name": "Pistola de Masaje Muscular",
+      "category": "Cuidado Personal",
+      "description": "Pistola de masaje muscular portátil con cabezales intercambiables y carga por USB, ideal para el bienestar diario en casa y la recuperación tras entrenamientos o jornadas largas. Incluye imágenes ilustrativas de experiencia y uso generadas con IA en el carrusel. Disponible por unidad (Bs. 199) o por mayor desde 3 unidades (Bs. 150 c/u).",
+      "characteristics": [
+        "Incluye 4 cabezales intercambiables para adaptarse a cada grupo muscular (esférico, en U, cónico y plano)",
+        "Carga práctica mediante cable USB incluido (conectable a cargador o puerto USB compatible)",
+        "Tiempo de carga: aproximadamente 2 a 3 horas para volverlo a usar (ajustable según el lote en Admin)",
+        "Tiempo de uso recomendado: sesiones de 10 a 15 minutos por zona muscular (ajustable según el lote en Admin)",
+        "Experiencia y testimonio visual generados con IA disponibles en el carrusel 1:1 del producto"
+      ],
+      "benefits": [
+        "Ayuda a relajar los músculos tensos y cargados del día a día",
+        "Contribuye a disminuir la rigidez muscular y la sensación de pesadez en el cuerpo",
+        "Mejora la circulación sanguínea local en las zonas donde se aplica",
+        "Alivia las molestias musculares después del ejercicio, entrenamiento o jornadas largas de pie o trabajo",
+        "Permite masajear diferentes zonas del cuerpo con comodidad y control desde casa",
+        "Incluye diferentes cabezales intercambiables para adaptarse a cada grupo muscular y brindar una experiencia más completa y personalizada",
+        "Ideal para el bienestar diario en casa, cuidando tu cuerpo sin complicaciones"
+      ],
+      "usage": "1. Revisa y elige el cabezal que mejor se adapte a la zona muscular que deseas trabajar. 2. Encájalo firmemente en la pistola de masaje muscular antes de encenderla. 3. Enciende el equipo y pásalo suavemente sobre la zona muscular, regulando la intensidad según tu comodidad. 4. Al terminar, apaga el dispositivo, retira o limpia el cabezal si es necesario y guárdalo en un lugar seguro. | Carga por USB: aprox. 2 a 3 horas (ajustable según lote en Admin). | Tiempo recomendado: sesiones de 10 a 15 minutos por zona muscular sin forzar un mismo punto por tiempos prolongados (ajustable en Admin).",
+      "wellnessTip": "Mantén una buena hidratación durante el día para acompañar la recuperación muscular, realiza estiramientos suaves antes y después de entrenar o pasar muchas horas en una misma postura y respeta tus horas de descanso. Precaución importante: evita aplicar la pistola de masaje muscular directamente sobre huesos prominentes, articulaciones sensibles, heridas abiertas, golpes fuertes o zonas con inflamación aguda; ante cualquier molestia persistente o condición médica previa, consulta con un profesional de salud.",
+      "unitPrice": 199,
+      "promoTitle": "",
+      "promoQuantity": null,
+      "promoPrice": null,
+      "wholesalePrice": 150,
+      "wholesaleMinQuantity": 3,
+      "imageUrl": "/assets/aistudio/masajeador-portatil-pistola-masaje-corporal-fascial-gun-mini_086a1eb3.jpg",
+      "images": [
+        "/assets/aistudio/masajeador-portatil-pistola-masaje-corporal-fascial-gun-mini_086a1eb3.jpg",
+        "/assets/aistudio/552fca8e44328658b04c340831a8811d_1200x1200_eb20c536.jpg",
+        "/assets/productos/pistola_masaje_experiencia_1_1795550036347.jpg",
+        "/assets/productos/pistola_masaje_antes_despues_1795550036903.jpg",
+        "/assets/productos/pistola_masaje_pago_entrega_1795550036849.jpg"
+      ],
+      "videoUrl": "",
+      "deliveryInfo": "Entrega a domicilio, envío a nivel nacional a toda Bolivia, delivery ágil y coordinado, o entrega en cualquier lugar coordinando directamente punto, horario y detalles con el cliente.",
+      "paymentInfo": "Pago con QR rápido y práctico, pago en efectivo y transferencia bancaria.",
+      "testimonials": [],
+      "active": true,
+      "isExample": false,
+      "views": 0,
+      "createdAt": "2026-11-24T19:54:00.000Z",
+      "updatedAt": "2026-11-24T19:54:00.000Z"
+    },
+    {
+      "id": "ej-aguayo-andino",
+      "name": "Aguayo Andino Tradicional Multicolor",
+      "category": "Textiles y Artesanías",
+      "description": "Tejido rectangular con diseño de franjas y rombos geométricos en colores tradicionales andinos, ideal para uso cotidiano, decoración o regalo.",
+      "characteristics": [
+        "Diseño geométrico multicolor en tejido firme",
+        "Acabado doblado y bordes reforzados",
+        "Artículo de ejemplo editable desde Administración"
+      ],
+      "benefits": [
+        "Práctico para múltiples usos en el hogar o salidas",
+        "Colores vivos inspirados en la tradición boliviana"
+      ],
+      "usage": "Úsalo como manta auxiliar, mantel decorativo para mesa, pieza tradicional o para transportar objetos livianos.",
+      "wellnessTip": "Ventilar el tejido después de cada uso y lavar con agua fría y jabón suave para conservar la viveza de sus hilos.",
+      "unitPrice": 85,
+      "promoTitle": "Paquete Familiar x2",
+      "promoQuantity": 2,
+      "promoPrice": 150,
+      "imageUrl": "/src/assets/images/product_aguayo_andino_1795542362495.jpg",
+      "deliveryInfo": "Entrega coordinada por WhatsApp y envíos a departamentos.",
+      "paymentInfo": "Efectivo contra entrega, transferencia bancaria o QR.",
+      "testimonials": [],
+      "active": true,
+      "isExample": true,
+      "views": 0,
+      "createdAt": "2026-11-24T17:50:31.163Z",
+      "updatedAt": "2026-11-24T17:50:31.163Z",
+      "wholesalePrice": null,
+      "wholesaleMinQuantity": 3
+    },
+    {
+      "id": "ej-chullo-andino",
+      "name": "Chullo Tejido con Orejeras y Pompones",
+      "category": "Ropa y Accesorios",
+      "description": "Gorro andino tejido con orejeras, borlas trenzadas y pompón superior multicolor. Cómodo y abrigado para clima frío.",
+      "characteristics": [
+        "Orejeras con cordones trenzados y borlas",
+        "Pompón superior multicolor",
+        "Artículo de ejemplo editable desde Administración"
+      ],
+      "benefits": [
+        "Cubre cabeza y orejas frente al viento y el frío",
+        "Diseño alegre y colorido fácil de combinar"
+      ],
+      "usage": "Ideal para mañanas frías, viajes al altiplano o actividades al aire libre.",
+      "wellnessTip": "Mantener la cabeza y las orejas abrigadas en jornadas de viento ayuda a evitar cambios bruscos de temperatura.",
+      "unitPrice": 45,
+      "promoTitle": "Combo Dúo Abrigo",
+      "promoQuantity": 2,
+      "promoPrice": 80,
+      "imageUrl": "/src/assets/images/product_chullo_tejido_1795542362938.jpg",
+      "deliveryInfo": "Entrega rápida coordinada por WhatsApp.",
+      "paymentInfo": "Efectivo, transferencia bancaria o QR.",
+      "testimonials": [],
+      "active": true,
+      "isExample": true,
+      "views": 0,
+      "createdAt": "2026-11-24T17:50:31.163Z",
+      "updatedAt": "2026-11-24T17:50:31.163Z",
+      "wholesalePrice": null,
+      "wholesaleMinQuantity": 3
+    },
+    {
+      "id": "ej-miel-natural",
+      "name": "Miel Natural en Frasco de Vidrio",
+      "category": "Alimentos y Naturales",
+      "description": "Miel de abeja de tono dorado presentada en frasco de vidrio reutilizable con tapa rosca de madera.",
+      "characteristics": [
+        "Envase de vidrio transparente con tapa de madera",
+        "Textura fluida y color ámbar dorado",
+        "Artículo de ejemplo editable desde Administración"
+      ],
+      "benefits": [
+        "Endulzante natural versátil para cocina y bebidas",
+        "Presentación higiénica lista para servir"
+      ],
+      "usage": "Agrega una cucharadita a infusiones tibias, desayunos, frutas, panes o recetas caseras.",
+      "wellnessTip": "Prefiere porciones moderadas y conserva el frasco bien cerrado en un lugar fresco y seco, lejos de la luz directa.",
+      "unitPrice": 55,
+      "promoTitle": "Promo Despensa x3",
+      "promoQuantity": 3,
+      "promoPrice": 145,
+      "imageUrl": "/src/assets/images/product_miel_yungas_1795542362490.jpg",
+      "deliveryInfo": "Entregas en punto acordado y servicio a domicilio.",
+      "paymentInfo": "QR, transferencia o efectivo contra entrega.",
+      "testimonials": [],
+      "active": true,
+      "isExample": true,
+      "views": 0,
+      "createdAt": "2026-11-24T17:50:31.163Z",
+      "updatedAt": "2026-11-24T17:50:31.163Z",
+      "wholesalePrice": null,
+      "wholesaleMinQuantity": 3
+    },
+    {
+      "id": "ej-termo-acero",
+      "name": "Termo Térmico Azul Marino 1 Litro",
+      "category": "Hogar y Termos",
+      "description": "Botella térmica de acabado mate azul marino con asa superior ergonómica para llevar bebidas frías o calientes.",
+      "characteristics": [
+        "Cuerpo metálico acabado mate color azul marino",
+        "Tapa a rosca con asa integrada para transporte",
+        "Artículo de ejemplo editable desde Administración"
+      ],
+      "benefits": [
+        "Fácil de llevar al trabajo, estudio o viajes",
+        "Reduce el uso de botellas plásticas desechables"
+      ],
+      "usage": "Ideal para transportar agua fresca, mates, café o infusiones durante toda la jornada.",
+      "wellnessTip": "Llevar tu propio termo facilita mantener una hidratación constante durante el día; recuerda enjuagarlo diariamente.",
+      "unitPrice": 95,
+      "promoTitle": "Pack Oficina x2",
+      "promoQuantity": 2,
+      "promoPrice": 170,
+      "imageUrl": "/src/assets/images/product_termo_acero_1795542363002.jpg",
+      "deliveryInfo": "Envíos y entregas el mismo día según zona.",
+      "paymentInfo": "Pago por QR, transferencia o efectivo.",
+      "testimonials": [],
+      "active": true,
+      "isExample": true,
+      "views": 0,
+      "createdAt": "2026-11-24T17:50:31.163Z",
+      "updatedAt": "2026-11-24T17:50:31.163Z",
+      "wholesalePrice": null,
+      "wholesaleMinQuantity": 3
+    }
+  ],
+  "visits": {
+    "totalVisits": 4,
+    "dailyVisits": {
+      "2026-11-24": 4
+    }
+  },
+  "healthTips": [
+    {
+      "id": "remedio-1-agua",
+      "title": "1. Agua",
+      "imageUrl": "/assets/remedios/remedio_agua_1795546232996.jpg",
+      "recommendation": "El agua es indispensable para el funcionamiento diario del organismo, ya que compone gran parte del cuerpo y participa en procesos vitales como la hidratación celular, la digestión, la circulación y la eliminación de desechos.",
+      "explanation": "Quien mantiene una buena hidratación diaria favorece una mejor digestión, apoya el trabajo de los riñones, ayuda a regular la temperatura corporal, reduce la sensación de cansancio asociada a la deshidratación leve y mantiene la piel y las mucosas en mejores condiciones.",
+      "practicalTips": [],
+      "precautions": "",
+      "active": true,
+      "createdAt": "2026-11-24T18:45:00.000Z",
+      "updatedAt": "2026-11-24T18:51:00.000Z"
+    },
+    {
+      "id": "remedio-2-descanso",
+      "title": "2. Descanso",
+      "imageUrl": "/assets/remedios/remedio_descanso_1795546233833.jpg",
+      "recommendation": "El cuerpo necesita pausas y un sueño reparador para recuperarse del desgaste físico y mental acumulado durante la jornada.",
+      "explanation": "Descansar bien ayuda a restaurar la energía, favorece la concentración y la memoria, estabiliza el estado de ánimo, apoya el sistema inmunológico y permite enfrentar el día siguiente con mayor claridad y menor fatiga.",
+      "practicalTips": [],
+      "precautions": "",
+      "active": true,
+      "createdAt": "2026-11-24T18:45:00.000Z",
+      "updatedAt": "2026-11-24T18:51:00.000Z"
+    },
+    {
+      "id": "remedio-3-ejercicio",
+      "title": "3. Ejercicio",
+      "imageUrl": "/assets/remedios/remedio_ejercicio_1795546233839.jpg",
+      "recommendation": "El movimiento físico regular mantiene activo el cuerpo y estimula sistemas clave que tienden a volverse lentos con el sedentarismo.",
+      "explanation": "Practicar actividad física acorde a la condición de cada persona mejora la circulación, fortalece músculos y huesos, cuida la salud cardiovascular y pulmonar, favorece la movilidad articular y ayuda a liberar tensión y estrés cotidiano.",
+      "practicalTips": [],
+      "precautions": "",
+      "active": true,
+      "createdAt": "2026-11-24T18:45:00.000Z",
+      "updatedAt": "2026-11-24T18:51:00.000Z"
+    },
+    {
+      "id": "remedio-4-luz-solar",
+      "title": "4. Luz solar",
+      "imageUrl": "/assets/remedios/remedio_luz_solar_1795546233730.jpg",
+      "recommendation": "La luz natural es un regulador biológico clave que sincroniza los ritmos internos del cuerpo y participa en procesos metabólicos esenciales.",
+      "explanation": "Recibir luz solar de forma moderada y segura apoya la producción natural de vitamina D (importante para los huesos y el bienestar general), ayuda a regular el ciclo de sueño y vigilia y contribuye a una mejor estabilidad del ánimo.",
+      "practicalTips": [],
+      "precautions": "",
+      "active": true,
+      "createdAt": "2026-11-24T18:45:00.000Z",
+      "updatedAt": "2026-11-24T18:51:00.000Z"
+    },
+    {
+      "id": "remedio-5-aire-puro",
+      "title": "5. Aire puro",
+      "imageUrl": "/assets/remedios/remedio_aire_puro_1795546250216.jpg",
+      "recommendation": "Respirar aire limpio y bien ventilado es necesario para oxigenar el organismo y mantener en buen estado las vías respiratorias.",
+      "explanation": "El contacto frecuente con aire fresco y entornos ventilados facilita una mejor oxigenación, ayuda a despejar la mente frente a ambientes cargados o cerrados y promueve una sensación de frescura y bienestar respiratorio.",
+      "practicalTips": [],
+      "precautions": "",
+      "active": true,
+      "createdAt": "2026-11-24T18:45:00.000Z",
+      "updatedAt": "2026-11-24T18:51:00.000Z"
+    },
+    {
+      "id": "remedio-6-nutricion",
+      "title": "6. Nutrición",
+      "imageUrl": "/assets/remedios/remedio_nutricion_1795546250577.jpg",
+      "recommendation": "Los alimentos aportan los nutrientes básicos (vitaminas, minerales, fibra, proteínas, carbohidratos y grasas) que el cuerpo necesita para funcionar y repararse.",
+      "explanation": "Llevar una alimentación variada, natural y equilibrada proporciona energía sostenida, apoya las defensas naturales del organismo, mejora el tránsito intestinal y ayuda a cuidar la salud general a mediano y largo plazo.",
+      "practicalTips": [],
+      "precautions": "",
+      "active": true,
+      "createdAt": "2026-11-24T18:45:00.000Z",
+      "updatedAt": "2026-11-24T18:51:00.000Z"
+    },
+    {
+      "id": "remedio-7-temperancia",
+      "title": "7. Temperancia (Equilibrio y moderación)",
+      "imageUrl": "/assets/remedios/remedio_temperancia_1795546251572.jpg",
+      "recommendation": "La temperancia consiste en practicar el equilibrio y la moderación en los hábitos diarios, evitando excesos y extremos perjudiciales.",
+      "explanation": "Quien cultiva la moderación en comidas, esfuerzos, pantallas y estimulantes protege su sistema digestivo y nervioso, evita sobrecargas innecesarias y logra hábitos saludables más estables y sostenibles en el tiempo.",
+      "practicalTips": [],
+      "precautions": "",
+      "active": true,
+      "createdAt": "2026-11-24T18:45:00.000Z",
+      "updatedAt": "2026-11-24T18:51:00.000Z"
+    },
+    {
+      "id": "remedio-8-en-fe",
+      "title": "8. En fe",
+      "imageUrl": "/assets/remedios/remedio_en_fe_1795546251704.jpg",
+      "recommendation": "La fe, la esperanza y la vida espiritual o de propósito brindan un marco de sentido, serenidad y apoyo emocional frente a las dificultades.",
+      "explanation": "Cultivar la fe y momentos de reflexión, gratitud o oración ayuda a calmar la mente, fortalece la resiliencia emocional ante situaciones difíciles y fomenta el acompañamiento y el bienestar integral de la persona.",
+      "practicalTips": [],
+      "precautions": "",
+      "active": true,
+      "createdAt": "2026-11-24T18:45:00.000Z",
+      "updatedAt": "2026-11-24T18:51:00.000Z"
+    }
+  ]
+}

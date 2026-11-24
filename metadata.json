@@ -1,0 +1,8 @@
+{
+  "name": "Remix Brand Palette Generator",
+  "description": "Create professional color identity sheets with precise HEX codes and Andean-inspired design layouts in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
